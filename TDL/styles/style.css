@@ -1,0 +1,107 @@
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+#number {
+    font-size: 48px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+}
+h3 {
+    font-size: 18px;
+    text-align: center;
+}
+#creator {
+    font-size: 24px;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+
+
+html {
+    background-color: #4CB2B2;
+}  
+
+#hand {
+    position: absolute;
+    font-size: 48px;
+    top: 24px;
+    left: 96px;
+    width: 500px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+#bidding {
+    position: absolute;
+    font-size: 48px;
+    top: 100px;
+    left: 950px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.NVUL {
+    width:130px;
+    background-color:green;
+}
+
+.VUL {
+    width:130px;
+    background-color:red;
+}
+
+table, th, td{
+    border: 5px solid black;
+    border-collapse: collapse;
+}
+
+#bids {
+    position: absolute;
+    font-size: 24px;
+    top: 350px;
+    left: 96px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+button{
+    width: 64px;
+    height: 48px;
+}
+
+#answer {
+    position: absolute;
+    font-size: 24px;
+    top: 580px;
+    left: 750px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+#Previous {
+    position: absolute;
+    font-size: 32px;
+    top: 100px;
+    left: 700px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+#Next {
+    position: absolute;
+    font-size: 32px;
+    top: 200px;
+    left: 700px;
+    border-style: solid;
+    border-radius: 5px;
+}
